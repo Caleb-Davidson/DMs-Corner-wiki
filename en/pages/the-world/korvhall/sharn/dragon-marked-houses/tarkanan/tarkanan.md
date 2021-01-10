@@ -1,5 +1,5 @@
 ## House Tarkanan
-House Tarkanan is a criminal organization based in Sharn consisting mostly of bearers of aberrant dragonmarks. The House takes its name from Lord Halas Tarkanan who, along with the Lady of the Plague, raised up those with aberrant dragonmarks to challenge the dragonmarked houses during the War of the Mark.
+House Tarkanan is a criminal organization based in Sharn consisting mostly of bearers of aberrant dragonmarks. The House takes its name from Lord Halas Tarkanan who, along with the Lady of the Plague, raised up those with aberrant dragonmarks to challenge the dragonmarked houses.
 
 Tarkanan nonetheless has a reputation for assassination, thievery and other unlawful deeds.
 
@@ -10,7 +10,7 @@ Though House Tarkanan was only founded in the last decade, The War of the Mark p
 Though Tarkanan and his army resisted, it was clear that the combined forces of the dragonmarked houses were far too overwhelming and the resistance would in the end be wiped out. Eventually Halas and the Lady of Plague unleashed a curse which brought catastrophic earthquakes and summoned hordes of vermin from the depths. The curse destroyed Dorasharn along with Halas and his forces, ending the resistance.
 
 #### Founding
-During the Last War, the King's Dark Lanterns of Breland formed a squad of covert operatives with aberrant dragonmarks. These individuals were considered expendable by Breland, and sent on suicidal black ops missions during the War. Eventually, the survivors of this team was fed and went rogue, fleeing to Sharn, and formed a criminal organization known as House Tarkanan in 990 YK, led by Thora Tavin, known as Thora Tarkanan to other members of the organization. House Tarkanan's current objective is to search for those who have aberrant marks, recruit them and train them to use their powers.
+During the Last War, the King's Dark Lanterns of Breland formed a squad of covert operatives with aberrant dragonmarks. These individuals were considered expendable by Breland, and sent on suicidal black ops missions during the War. Eventually, the survivors of this team was fed and went rogue, fleeing to Sharn, and formed a criminal organization, eventually coming to be known as House Tarkanan in 990 YK, led by Thora Tavin, known as Thora Tarkanan to other members of the organization. House Tarkanan's current objective is to search for those who have aberrant marks, recruit them and train them to use their powers.
 
 ## Notable Members
 Thora Tarkanan
@@ -28,5 +28,5 @@ House Tarkanan does not accept contracts that target high-ranking members of any
 
 House Tarkanan also offers a special service called assassination of the soul, in which they use their single +1 Keeper's Fang Dagger to kill the target. The dagger traps the target's soul in the domain of the keeper and thus they cannot be raised or resurrected. This service costs twice that of a normal assassination.
 
-## Key Locations
+## Notable Locations
 Thora's Manor

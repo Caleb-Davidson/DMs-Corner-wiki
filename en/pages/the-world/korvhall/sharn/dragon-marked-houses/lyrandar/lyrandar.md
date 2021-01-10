@@ -1,19 +1,19 @@
 ## House Lyrandar
-House Lyrandar's enclave is located on Stormhome an island city-state just north of Aundair.
+House Lyrandar's enclave is located on Stormhome an island city-state just north of Antiga.
 
-As is common among other dragonmarked houses, Lyrandar is led by a baron (patriarch or matriarch). Some in the house refer to the baron as "Firstborn", believing that Lyran and Selavash, the ancient ancestors of House Lyrandar and the spiritual ancestors of the Khoravar race, speak through that individual.
+As is common among other dragonmarked houses, Lyrandar is led by a baron (patriarch or matriarch). Some in the house refer to the baron as "Firstborn", believing that Lyran and Selavash, the ancient ancestors of House Lyrandar, speak through that individual.
 ![](./lyrandar-coa.jpg)
 
 ## Dragonmark
 House Lyrandar possesses the Mark of Storm. This mark grants various magical benefits that allow its bearers to control winds and waves.
 
 ## History
-Although there are no historical records of the beginnings of the house, Lyrandar is said to have begun around 2000 years ago, six centuries after legends hold that the elves first migrated to Khorvaire from Aerenal where some mixed with humans to create the first Khoravar. Lyran and Selavash were the first of the Khoravar to develop the Mark of Storm.
+Although there are no historical records of the beginnings of the house, Lyrandar is said to have begun around 2000 years ago, six centuries after legends hold that the elves first migrated to Korvhall from Aerenal. Lyran and Selavash were the first to develop the Mark of Storm.
 
 #### Last War
 At the beginning of the Last War, House Lyrandar was significantly weaker than they are today. Most transport, including military transport (troops and supplies), were carried over land, and Orien with their caravans and trade routes, not to mention the lightning rail, were the carrier of choice for every nation and faction.
 
-Lyrandar, in the early years of the war, made their money primarily in the field of weather manipulation: clearing rainy and muddy regions so troops could pass, using weather to make trade routes impassable (especially if they were Orien trade routes), helping regions in need of a good growing season because of enemy food raids, and whatever else the paying client needed; though Lyrandar were always careful not to violate the neutrality demanded by the Korth Edicts.
+Lyrandar, in the early years of the war, made their money primarily in the field of weather manipulation: clearing rainy and muddy regions so troops could pass, using weather to make trade routes impassable (especially if they were Orien trade routes), helping regions in need of a good growing season because of enemy food raids, and whatever else the paying client needed; though Lyrandar were always careful not to violate neutrality.
 
 Orien's trade routes deteriorated as the war went on, and House Lyrandar was there to take up the slack with a fleets of galleons to ship for clients via sea. They also sold ships to clients who could afford them.
 
@@ -34,11 +34,11 @@ Their relations with certain other dragonmarked houses is not as rosy. Orien, th
 ## Relations
 House Orien: Most members of House Orien are unfriendly towards those of Lyrandar as the airship threatens to damage Orien's land based transport industry.
 
-## Guilds & Organizations
-The Raincallers Guild provides weather management, while the Windwrights Guild is one of the largest air and sea shipping and transit businesses in Khorvaire.
-
-## Key Locations
+## Notable Locations
 * Stormhome
 * Rhukaan Draal
 * Taer Valaestas
-Lyrandar maintain smaller offices and docks in other towns and ports across Khorvaire, they also hold additional lands in Valenar, in violation of the Korth Edicts. House Lyrandar also have enclaves in Sharn, Korth, Flamekeep, Wroat, Korranberg, Rekkenmark, Stormreach, Trolanport, Thaliost and Zarash'ak.
+Lyrandar maintain smaller offices and docks in other towns and ports across Korvhall, they also hold additional lands in Valenar, in violation of the Korth Edicts. House Lyrandar also have enclaves in Sharn, Korth, Flamekeep, Wroat, Korranberg, Rekkenmark, Stormreach, Trolanport, Thaliost and Zarash'ak.
+
+## Guilds
+The Raincallers Guild provides weather management, while the Windwrights Guild is one of the largest air and sea shipping and transit businesses in Korvhall.

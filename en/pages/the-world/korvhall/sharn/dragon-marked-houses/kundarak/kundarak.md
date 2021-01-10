@@ -1,5 +1,5 @@
 ## House Kundarak
-House Kundarak is focused in security and banking. Their primary customers are those who have enough coin to buy something worth protecting including the wealthy, the powerful, other dragon marked houses and even state governments. They are the wealthiest Dragonmarked House by far and their banking establishments can be found all over Khorvaire.
+House Kundarak is focused in security and banking. Their primary customers are those who have enough coin to buy something worth protecting including the wealthy, the powerful, other dragon marked houses and even state governments. They are the wealthiest Dragonmarked House by far and their banking establishments can be found all over Antiga.
 [./kundarak-coa.jpg]
 
 ## Dragonmark
@@ -12,9 +12,9 @@ The Mark of Warding first appeared around 2500 years ago, not long before Karrn 
 
 With the aid of the Gnomes of Zilargo and House Sivis, Kundarak found purpose again when they formed an official Dragonmarked House in 106 YK. One of the conditions for earning the Dragonmarked House status was for Kundarak to cease all mining operations within Korunda Gate. Kundarak agreed though they bargained for the right to lease their ancient hereditary lands to others who wish to mine.
 
-House Kundarak played an essential part during the Last War but preferred to take a financial role rather than a direct military presence which gave way to Kundarak becoming the banking establishment it is to date. Largely part to a financial infusion between House Kundarak and the Mror Hold's, twenty years into the war the Mror Holds declared its independence.
+House Kundarak played an essential part during the hidden wars fought over the times or peace by being the financial presence to ensure funding was available which gave way to Kundarak becoming the banking establishment it is to date. Largely part to a financial infusion between House Kundarak and the Mror Hold's, twenty years into the war the Mror Holds declared its independence.
 
-When years of war became decades the nations of Khorvaire quickly became heavily indebted to House Kundarak relying on large loans to pay for equipment and provisions. At the end of the war all nations owed Kundarak a large sum and to make sure they all pay their debts Kundarak demanded that an order be placed in the Treaty of Thronehold demanding the nations to settle them.
+When years of fighting became decades the nations of Korvhall quickly became heavily indebted to House Kundarak relying on large loans to pay for equipment and provisions. Today all nations owe Kundarak a large sum.
 
 ## Business
 Like all other Dragonmarked Houses, House Kundarak provides services as a business. It's traditional business is banking which involves loans and storage. Another service is security, for paying clients Kundarak will build and install security. Similar to their banking business they offer to store any item in their highly secured vaults.
