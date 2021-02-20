@@ -32,6 +32,3 @@ The trial proceeds as planned, the teams do whatever it is the do until a winner
 The attack starts with a small group of fighters rushing into the room from the some doorway the party came from. Kaylein was the closest to that spot, as she was just about to go up the stars to take some coins to Astrid, the groups mobs her on their way down and Kaylein is killed immediately.
 
 During/after the attack the marks need to make an appearance, some kind of mark battle? Some way of introducing them.
-
-After the attack Astrid mourns the losses, and orders a guard to find where they came from. Then if any are left alive he binds them for later questioning. Then he checks in with the party & co. Get's any wounds taken care of, and questions everyone to see if they know anything.
-He will separate everyone and question them closely, somebody obviously betrayed them, because nobody should have known about the meeting today. After questioning he will apologize to the party about this and ask if they would be willing to help him with this predicament. They are technically part of the house now, and one of the few he is willing to trust at this point. So could they do some investigation and find out who was behind this? The house will make it worth their time.

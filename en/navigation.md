@@ -3,6 +3,7 @@
 [Sessions]()
 
   * # Arc 04 - A New World
+  * [Session 19 - Picked for the Cause II ½](./pages/session-outlines/arc-04/session-19/index.md)
   * [Session 18 - Picked for the Cause II](./pages/session-outlines/arc-04/session-18/index.md)
   * [Session 17 - Picked for the Cause](./pages/session-outlines/arc-04/session-17/index.md)
   - - - -
